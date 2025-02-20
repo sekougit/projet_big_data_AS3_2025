@@ -20,7 +20,7 @@ Etape 2: Un compte Google Cloud avec un projet configuré
 
 Etape 3: Activer de l'API BigQuery pour gérer les interactions entre BigQuery et les sources de données
 
-Etape 4: Créer une clé de service pour l'authentification quand on veut faire une ingestion des données
+Etape 4: Créer une clé de service dans un compte de service a créer aussi pour l'authentification quand on veut faire une ingestion des données
 
 Etape 5: Créer des projets qui vont contenir les datasets (ensemble de données) et des tables
 
