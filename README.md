@@ -28,4 +28,3 @@ Etape 6: Lier BigQuery a Power BI, Tablaeu et Google Data Studio
 
 Etape 7: Faire de la visualisation avec Google Data Studio
 
-ces données ont été scrapp 
